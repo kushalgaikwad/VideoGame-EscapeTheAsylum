@@ -1,0 +1,21 @@
+Initialize engine version: 4.5.0f6 (fd4616464986)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: ATI Radeon HD 4300/4500 Series (Microsoft Corporation - WDDM v1.1) (ID=0x954f)
+    Vendor:   ATI
+    VRAM:     508 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Asylum_1\Asylum_1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Asylum_1\Asylum_1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Asylum_1\Asylum_1_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\Asylum_1\Asylum_1_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\Asylum_1\Asylum_1_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading F:\Asylum_1\Asylum_1_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: F:\Asylum_1\Asylum_1_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\Asylum_1\Asylum_1_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.146 seconds
+desktop: 1152x864 75Hz; virtual: 1152x864 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: F:\Asylum_1\Asylum_1_Data\Managed\Boo.Lang.dll (this message is harmless)
